@@ -28,7 +28,7 @@ This repository holds our submission for our second asynchronous task for our Ja
 <img alt="Sample Input/Output Screenshot" src="images/Sample-Exit.png"/>
 
 
-**Valid Input: Invalid Inputs**
+**Sample Invalid Inputs**
 
 <img alt="Sample Input/Output Screenshot" src="images/Sample-Invalid Inputs.png"/>
 
