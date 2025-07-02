@@ -8,34 +8,35 @@ This repository holds our submission for our second asynchronous task for our Ja
 
 **Valid Input: Adding Orders**
 
-![Sample Input/Output Screenshot](images/Sample-Adding Orders.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Adding Orders.png"/>
 
 **Valid Input: Updating Orders**
 
-![Sample Input/Output Screenshot](images/Sample-Updating Orders.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Updating Orders.png"/>
 
 **Valid Input: Viewing Orders**
 
-![Sample Input/Output Screenshot](images/Sample-Viewing Orders.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Viewing Orders.png"/>
 
 
 **Valid Input: Removing Orders**
 
-![Sample Input/Output Screenshot](images/Sample-Removing Orders.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Removing Orders.png"/>
 
 **Valid Input: Exiting**
 
-![Sample Input/Output Screenshot](images/Sample-Exit.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Exit.png"/>
 
 
 **Valid Input: Invalid Inputs**
 
-![Sample Input/Output Screenshot](images/Sample-Invalid Inputs.png)
+<img alt="Sample Input/Output Screenshot" src="images/Sample-Invalid Inputs.png"/>
 
 
 
 
 ### Output Validation Cases:
 
-![Output Validation Cases](images/Sample-Output Validation Cases.png)
-![Output Validation Cases](images/Sample-Output Validation.png)
+<img alt="Output Validation Cases" src="images/Sample-Output Validation Cases.png"/>
+
+<img alt="Output Validation Cases" src="images/Sample-Output Validation.png"/>
